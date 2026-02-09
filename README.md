@@ -156,6 +156,18 @@
 </details>
 
 <details>
+<summary><strong>Objects</strong></summary>
+
+- Objects are data structures used for grouping variables (properties) together with related functions (methods).
+  - [MDN > JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Object_basics)
+  - [JavaScript.info - Objects](https://javascript.info/object)
+  - [JavaScript.info - Object references and copying](https://javascript.info/object-copy)
+
+---
+
+</details>
+
+<details>
 <summary><strong></strong></summary>
 
 ---
