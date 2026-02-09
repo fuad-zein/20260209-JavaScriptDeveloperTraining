@@ -34,5 +34,10 @@
 - [MDN > What Went Wrong](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_went_wrong)
 - [Geeks for Geeks > Console.log](https://www.geeksforgeeks.org/javascript/javascript-console-log-method/)
 - [JavaScript.info > Developer Console](https://javascript.info/devtools)
+- [MDN > Storing the information you need — Variables](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Variables)
+- [JavaScript.info > Variables](https://javascript.info/variables)
+- [JavaScript.info > Data types](https://javascript.info/types)
+- [MDN > Handling text — strings in JavaScript](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Strings)
+- [MDN > Useful string methods](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Useful_string_methods)
 
 ---
