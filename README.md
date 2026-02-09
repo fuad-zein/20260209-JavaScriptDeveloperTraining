@@ -127,6 +127,10 @@
   - [JavaScript.info - Loops: while and for](https://javascript.info/while-for)
   - [JavaScript.info - The “switch” statement](https://javascript.info/switch)
 
+- Challenge:
+  - [Number Analyzer - Control Structures Challenge](Chapter1-JavaScriptFundamentals/5-number-analyzer-control-structures-challenge-1/)
+  - [Number Analyzer - Control Structures Challenge (Solutions)](Chapter1-JavaScriptFundamentals/5-number-analyzer-control-structures-challenge-2/)
+
 ---
 
 </details>
