@@ -39,5 +39,8 @@
 - [JavaScript.info > Data types](https://javascript.info/types)
 - [MDN > Handling text — strings in JavaScript](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Strings)
 - [MDN > Useful string methods](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Useful_string_methods)
+- [MDN > Basic math in JavaScript — numbers and operators](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Math)
+- [JavaScript.info > Basic Operators, maths](https://javascript.info/operators)
+- [JavaScript.info > Comparisons](https://javascript.info/comparison)
 
 ---
