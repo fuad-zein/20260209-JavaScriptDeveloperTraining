@@ -108,6 +108,10 @@
   - [JavaScript.info - Arrays](https://javascript.info/array)
   - [JavaScript.info > Array Methods](https://javascript.info/array-methods)
 
+- Challenge:
+  - [Virtual Garden Manager - Arrays Challenge](Chapter1-JavaScriptFundamentals/4-virtual-garden-manager-arrays-challenge-1/)
+  - [Virtual Garden Manager - Arrays Challenge (Solutions)](Chapter1-JavaScriptFundamentals/4-virtual-garden-manager-arrays-challenge-2/)
+
 ---
 
 </details>
