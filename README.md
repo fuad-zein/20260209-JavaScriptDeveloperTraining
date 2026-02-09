@@ -2,6 +2,26 @@
 
 ---
 
+### **Serve the Website that the JavaScript Runs In:**
+
+1. Using your IDE’s built-in terminal or your regular terminal at the challenge directory, install project dependencies with the following command:
+
+   ```
+   npm install
+   ```
+
+2. Start up the local dev server with the following command:
+
+   ```
+   npm run dev
+   ```
+
+3. Visit the url output in the terminal after running the command to see the site. (Usually [http://localhost:5173](http://localhost:5173) if that port isn’t already in use.)
+
+4. That’s it! You can work in the project files like normal to meet the requirements of the challenge
+
+---
+
 ### **References:**
 
 **`Chapter 1: JavaScript Fundamentals`**
