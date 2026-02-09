@@ -163,6 +163,10 @@
   - [JavaScript.info - Objects](https://javascript.info/object)
   - [JavaScript.info - Object references and copying](https://javascript.info/object-copy)
 
+- Challenge:
+  - [Virtual Pet Sanctuary - Objects Challenge](Chapter1-JavaScriptFundamentals/7-virtual-pet-sanctuary-objects-challenge-1/)
+  - [Virtual Pet Sanctuary - Objects Challenge (Solutions)](Chapter1-JavaScriptFundamentals/7-virtual-pet-sanctuary-objects-challenge-2/)
+
 ---
 
 </details>
