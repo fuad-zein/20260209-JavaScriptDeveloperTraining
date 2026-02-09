@@ -171,11 +171,10 @@
 
 </details>
 
-<details>
-<summary><strong></strong></summary>
-
 ---
 
-</details>
+### References:
+
+- [JavaScript Certification](https://certificates.dev/javascript#top)
 
 ---
