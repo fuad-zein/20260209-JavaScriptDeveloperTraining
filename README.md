@@ -117,7 +117,26 @@
 </details>
 
 <details>
+<summary><strong>Control Structures</strong></summary>
+
+- Conditionals are how we give our code the ability to make decisions based on the values of our variables. Loops are useful for doing the same thing over and over again.
+  - [MDN > Making decisions in your code — conditionals](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Conditionals)
+  - [JavaScript.info - Conditional Branching](https://javascript.info/ifelse)
+  - [JavaScript.info - Logical operators](https://javascript.info/logical-operators)
+  - [MDN > Looping code](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Loops)
+  - [JavaScript.info - Loops: while and for](https://javascript.info/while-for)
+  - [JavaScript.info - The “switch” statement](https://javascript.info/switch)
+
+---
+
+</details>
+
+</details>
+
+<details>
 <summary><strong></strong></summary>
+
+---
 
 </details>
 
