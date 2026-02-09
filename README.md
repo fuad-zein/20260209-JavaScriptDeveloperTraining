@@ -22,9 +22,7 @@
 
 ---
 
-### **References:**
-
-**`Chapter 1: JavaScript Fundamentals`**
+### **Chapter 1: JavaScript Fundamentals**
 
 <details>
 <summary><strong>Intro to JavaScript</strong></summary>
@@ -54,6 +52,10 @@
   - [Geeks for Geeks > Console.log](https://www.geeksforgeeks.org/javascript/javascript-console-log-method/)
   - [JavaScript.info > Developer Console](https://javascript.info/devtools)
 
+- Challenge:
+  - [Fix the Syntax Error And Log a Custom Message to the Console](Chapter1-JavaScriptFundamentals/1-fix-the-syntax-error-and-log-a-custom-message-to-the-console-1/)
+  - [Fix the Syntax Error And Log a Custom Message to the Console - Solution](Chapter1-JavaScriptFundamentals/1-fix-the-syntax-error-and-log-a-custom-message-to-the-console-2/)
+
 ---
 
 </details>
@@ -70,6 +72,10 @@
   - [MDN > Handling text — strings in JavaScript](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Strings)
   - [MDN > Useful string methods](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Useful_string_methods)
 
+- Challenge:
+  - [Declaring Variables Challenge](Chapter1-JavaScriptFundamentals/2-declaring-variables-challenge-1/)
+  - [Declaring Variables Challenge - Solutions](Chapter1-JavaScriptFundamentals/2-declaring-variables-challenge-2/)
+
 ---
 
 </details>
@@ -81,6 +87,10 @@
   - [MDN > Basic math in JavaScript — numbers and operators](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Math)
   - [JavaScript.info > Basic Operators, maths](https://javascript.info/operators)
   - [JavaScript.info > Comparisons](https://javascript.info/comparison)
+
+- Challenge:
+  - [Space Explorer Game - Operators Challenge](Chapter1-JavaScriptFundamentals/3-space-explorer-game-operators-challenge-1/)
+  - [Space Explorer Game - Operators Challenge (Solutions)](Chapter1-JavaScriptFundamentals/3-space-explorer-game-operators-challenge-2/)
 
 ---
 
