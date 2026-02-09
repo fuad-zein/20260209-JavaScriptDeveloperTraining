@@ -147,6 +147,10 @@
   - [JavaScript.info > Function expressions](https://javascript.info/function-expressions)
   - [JavaScript.info > Arrow functions, the basics](https://javascript.info/arrow-functions-basics)
 
+- Challenge:
+  - [Wizard's Spellbook - Functions Challenge](Chapter1-JavaScriptFundamentals/6-wizards-spellbook-functions-challenge-1/)
+  - [Wizard's Spellbook - Functions Challenge (Solutions)](Chapter1-JavaScriptFundamentals/6-wizards-spellbook-functions-challenge-2/)
+
 ---
 
 </details>
